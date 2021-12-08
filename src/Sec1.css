@@ -1,0 +1,13 @@
+.txt{
+    text-align: center;
+}
+.txt button{
+    width: 410px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: crimson;
+    color: whitesmoke;
+}
+ .img2{
+     text-align: center;
+ }
